@@ -1,6 +1,6 @@
 ﻿**Part 1: UDP Pinger with No Delay and No Loss**
 
-1) My UDP pinger sends a determined number of messages from my client across the local
+\1) My UDP pinger sends a determined number of messages from my client across the local
 
 network to my server on port 127.0.0.1. For this exercise, 10 pings were sent. Right
 
