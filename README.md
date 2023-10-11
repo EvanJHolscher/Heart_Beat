@@ -1,6 +1,6 @@
 ﻿**Part 1: UDP Pinger with No Delay and No Loss**
 
-\1) My UDP pinger sends a determined number of messages from my client across the local
+1) My UDP pinger sends a determined number of messages from my client across the local
 
 network to my server on port 127.0.0.1. For this exercise, 10 pings were sent. Right
 
@@ -30,7 +30,7 @@ the total ping attempts, and then multiplying that value by 100. This value is a
 
 displayed in the ping report.
 
-\2) To specify the timeout value for the datagram socket, you first set a variable timeout to
+2) To specify the timeout value for the datagram socket, you first set a variable timeout to
 
 the desired number of seconds. You then use cliSock.settimeout(timeout), where cliSock
 
