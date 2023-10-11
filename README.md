@@ -45,7 +45,7 @@ increase the packet\_loss.
 
 **Part 2: UDP Pinger with Delay**s
 
-1) My UDP Ping server simulates a 10ms to 20ms RTT delay by generating a random
+\1) My UDP Ping server simulates a 10ms to 20ms RTT delay by generating a random
 
 number between 10 and 20, dividing that value by 1000, and then looping through a
 
@@ -57,7 +57,7 @@ what was desired. This method achieves the desired effect, and does so after rec
 
 the message from the client, causing a 10ms to 20ms RTT delay.
 
-2) To run the code, use two different terminals. Python must be installed\.
+\2) To run the code, use two different terminals. Python must be installed\.
 
 a) First, in Terminal 1, use command: python EH2.py
 
